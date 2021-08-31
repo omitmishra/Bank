@@ -4,7 +4,7 @@
 
 Download the Zip And Extract the zip files
 
-Changes the configuration of MYSQL according to local setup
+Changes the configuration of MYSQL according to local setup in application.properties
 
 Run the spring Application
 
