@@ -1,3 +1,12 @@
+
+A Backned Application wchih does tranfer money from one account to Another 
+
+
+
+
+
+
+
 Changes the configuration of MYSQL according to local setup in application.properties
 
 Run the spring Application
